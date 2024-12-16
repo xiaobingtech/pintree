@@ -20,6 +20,9 @@ export function Analytics({ googleAnalyticsId, clarityId }: { googleAnalyticsId?
           }}
         />
       )}
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1088661153697754"
+     crossorigin="anonymous"></script>
       
       {googleAnalyticsId && (
         <>
