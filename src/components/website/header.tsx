@@ -65,6 +65,9 @@ export function Header({
         <SidebarTrigger className="-ml-1" />
         <Separator orientation="vertical" className="h-4" />
       </div>
+
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1088661153697754"
+     crossorigin="anonymous"></script>
       
       <div className="flex items-center gap-2">
         {session && (
